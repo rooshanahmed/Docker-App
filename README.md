@@ -5,7 +5,7 @@
 ## Follow These Steps, To Containerize This App
 
 ```
-docker build -t docker-app
+docker build -t docker-app .
 ```
 
 ```
